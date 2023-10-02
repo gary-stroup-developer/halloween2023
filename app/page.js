@@ -2,8 +2,8 @@ import Link from "next/link";
 import { creepster,jolly, joti } from "./utils/fonts";
 
 export default function Home() {
-    const halloween = new Date('October 31, 2023').getDate();
-    const currentDay = new Date(Date.now()).getDate();
+    const halloween = new Date('October 31, 2023').getUTCDate();
+    const currentDay = new Date(Date.now()).getUTCDate();
 
     var difference = halloween - currentDay;
   return (
