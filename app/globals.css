@@ -1,6 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Jolly+Lodger&family=Joti+One&display=swap');  
+
+
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -8,20 +11,63 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+a {
+  text-decoration: none !important;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+#main-bg {
+  background-image: url("../public/photos/halloweenMain.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-attachment: inherit;
+}
+
+
+
+#countdown-container-footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 2em;
+}
+
+#homescreen-nav {
+  padding: 16px 32px;
+  border: none;
+  border-radius: 2rem;
+  background-color: greenyellow;
+  font-weight: 900;
+}
+
+/* home screen css */
+#homescreen-main {
+  background-image: url("../public/photos/halloweenHomebg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  background-origin: border-box;
+  background-attachment: fixed;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  height: fit-content;
+  justify-content: space-around;
+  align-items: center;
+  color: whitesmoke;
+  line-height: 2;
+}
+
+.nav-logo-fontSize {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  font-size: 3.2em;
+}
+
+.nav-container{
+  display: flex;
+  width: 15%;
+  justify-content: space-between;
 }
