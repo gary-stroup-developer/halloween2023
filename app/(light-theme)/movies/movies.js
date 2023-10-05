@@ -149,6 +149,36 @@ export const data ={
             "title": "Edward Scissorhands (1990)",
             "summary": "Another Tim Burton cult classic, this surprisingly heartwarming tale of a young man makes us re-think the definition of what a \"monster\" really is. Is it the grotesque human with the scissors for hands, or the \"normal\"-looking suburbanites who gossip and back-stab around him?",
             "img": "https://hips.hearstapps.com/hmg-prod/images/american-actor-johnny-depp-on-the-set-of-edward-news-photo-1631547826.jpg?crop=0.573xw:0.838xh;0.0425xw,0.147xh&resize=980:*"
+        },
+        {
+            "key": 26,
+            "title": "Young Frankenstein (1974)",
+            "summary" : "Heralded as one of the funniest movies of all time (full stop), the jokes in this hilarious Mel Brooks spoof still hold up. It's perfect for when you want to watch something in the Halloween spirit, but don't feel like being scared.",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/young-frankenstein-1631546551.jpg?crop=0.9973958333333334xw:1xh;center,top&resize=980:*"
+        },
+        {
+            "key": 27,
+            "title": "Hellraiser (1987)",
+            "summary": "Okay, gore fans, this one's for you: Hellraiser is about a puzzle box that, if solved correctly, is said to open a portal to a realm of pleasure. But when a man buys it and tries to solve it in his attic, he suffers some gnarly consequences. This movie is also the originator of the Cenobites, including the \"Pinhead\" figure, which are their own horror icons. The film spawned nine sequels, and last year it received the reboot treatment.",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/halloween-movies-hellraiser-6491d98014e33.jpeg?crop=0.670xw:1.00xh;0.149xw,0&resize=980:*"
+        },
+        {
+            "key": 28,
+            "title": "The Monster Squad (1987)",
+            "summary": "Here's one that you can watch with the tweens (maybe) and teens (most likely). In the vein of something like The Goonies, this film has a bunch of kids who have to go up against the classic Universal monsters, including Dracula, Frankenstein's monster, the Mummy, the Wolf Man and the Creature from the Black Lagoon.",
+            "img": "https://hips.hearstapps.com/hmg-prod/images/halloween-movies-the-monster-squad-6491fcd9501a5.jpeg?crop=0.691xw:1.00xh;0.233xw,0&resize=980:*"
+        },
+        {
+            "key" : 29,
+            "title": "Friday the 13th (1980)",
+            "summary" : "There's a reason so many of us are wary of Friday the 13th whenever it comes up on our calendars. We can owe a lot of that nervousness to this eerie fan-favorite and the franchise that followed.",
+            "img" : "https://hips.hearstapps.com/hmg-prod/images/ghk-friday-the-13th-1594850124.jpg?crop=0.648xw:1.00xh;0.211xw,0&resize=980:*"
+        },
+        {
+            "key": 30,
+            "title": "It (2017)",
+            "summary" : "Since Pennywise the Clown has consistently been one of the most popular Halloween costumes in recent years, it's only fitting that the 2017 remake of Stephen King's bone-chilling story makes the cut. Make it a double-feature by following it up with 2019's It: Chapter 2, both directed by The Flash's Andy Muschietti.",
+            "img" : "https://hips.hearstapps.com/hmg-prod/images/it-new-line-cinema-1571953034.jpg?crop=0.560xw:0.985xh;0.216xw,0&resize=980:*"
         }
     ]
 }

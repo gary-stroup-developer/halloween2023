@@ -97,27 +97,85 @@ export const data = {
                 "Stir the flour mixture and 1/4 cup melted butter to the pumpkin mixture, stirring just to combine. Use a whisk or rubber spatula to fold 1/3 of the egg whites into the batter, stirring gently until incorporated. Fold in the remaining egg whites. Cook waffles according to manufacturer's instructions.",
                 "To make the syrup: Stir sugar, cornstarch, and cinnamon together in a saucepan. Stir in apple cider and lemon juice. Cook over medium heat until mixture begins to boil; boil until the syrup thickens. Remove from heat and stir in 2 tablespoons of butter until melted. Serve warm."
             ]
+        },
+        {   
+            "id": "Halloween Jack-o'-Lantern Beef Pies-3",
+            "title": "Halloween Jack-o'-Lantern Beef Pies",
+            "intro": "Yummy biscuit cups filled with spicy beef mixture and topped with Halloween pumpkin faces!",
+            "img": "https://www.allrecipes.com/thmb/09xknlKbEZpPJHea0Ne5x7sLSPE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/728248-e01b20d2e4bc4bceb863fe03a2c5da08.jpg",
+            "prep_time": "25 mins",
+            "total_time": "1 hour",
+            "servings": 10,
+            "ingredients": ["1 ½ pounds ground beef","1 onion, chopped","1 tablespoon chili powder","1 teaspoon ground cumin","½ teaspoon salt","¼ teaspoon garlic powder","1 (15 ounce) can tomato sauce","1 cup shredded carrot","1 (6 ounce) can chopped black olives, drained","1 (12 ounce) can refrigerated biscuit dough","10 slices American cheese"],
+            "directions": [
+                "Preheat oven to 400 degrees F (200 degrees C). Grease 10 muffin cups.",
+                "Place ground beef and onion in a large skillet over medium heat; cook and stir until the meat is browned and crumbly, about 10 minutes. Drain excess grease. Stir in the chili powder, cumin, salt, garlic powder, tomato sauce, carrot, and olives, and bring the mixture to a simmer. Cover the skillet, and cook until thickened and the carrot is tender, about 20 minutes. Stir occasionally.",
+                "Working on a floured surface, separate each biscuit, and roll out into 4-inch circles. Press the circles of biscuit dough into prepared muffin cups; bake in the preheated oven until the cups are lightly browned, about 10 minutes. Remove the biscuit cups from the pan, and place onto a baking sheet.",
+                "Cut the 10 slices of American cheese into 3-inch circles, and cut jack-o'-lantern faces into the circles with a sharp paring knife. Chop remnants of cheese, and mix into the meat mixture. Fill the biscuit cups with meat mixture, and place a cheese face on top of each.",
+                "Return to the oven, and bake just until cheese begins to soften, 3 to 5 minutes."
+            ]
+        },
+        {
+            "id": "Bats and Cobwebs-4",
+            "title":"Bats and Cobwebs",
+            "intro": "We make this baked bow tie pasta for Halloween every year at my son's request! It's like spaghetti using bow tie pasta. It is mixed together with mozzarella cheese cubes and baked in the oven. The bow tie pasta is the bats and the stringy, gooey mozzarella cheese is the cobwebs!",
+            "img": "https://www.allrecipes.com/thmb/1dWxPUNVVs80bRFvv9bHe1Kh-mU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1505811-8586abe7604c4ca0989effe2e79f24de.jpg",
+            "prep_time": "10 mins",
+            "total_time": "40 mins",
+            "servings": 6,
+            "ingredients": [
+                "1 (8 ounce) package farfalle (bow tie) pasta",
+                "1 pound ground beef",
+                "1 small onion, chopped (Optional)",
+                "1 (28 ounce) jar pasta sauce",
+                "8 ounces mozzarella cheese, cut into 1/2 inch cubes",
+                "¼ cup grated Parmesan cheese"
+            ],
+            "directions": [
+                "Preheat the oven to 400 degrees F (200 degrees C).",
+                "Fill a large pot with lightly salted water, bring to a rolling boil over high heat. Stir in the bow tie pasta and return to a boil. Boil pasta, stirring occasionally, until cooked through but still firm to the bite, about 12 minutes. Drain well.",
+                "Cook and stir ground beef and onion in a large skillet until beef is no longer pink, about 5 minutes. Drain fat. Stir in pasta sauce and bring to a boil. Reduce heat to simmer.",
+                "Stir cooked pasta and half of the mozzarella cheese into the sauce; toss to combine. Transfer to a 2-quart baking dish. Top with remaining mozzarella and Parmesan cheese.",
+                "Bake in the preheated oven until lightly browned and bubbly, 15 to 20 minutes."
+            ]
+        },
+        {
+            "id": "Mini Meatloaf Ghosts-5",
+            "title":"Mini Meatloaf Ghosts",
+            "intro":"For a delicious crowd pleaser that will have your family cheering, who ya gonna call? Ghost meatloaf! Turn your favorite meatloaf recipe into these absolutely adorable, yet still incredibly terrifying, edible apparitions. They're easy and fun to make and the leftovers make great \"ghost on toast\" sandwiches.",
+            "img":"https://www.allrecipes.com/thmb/TVUTMxY3r5ov-qsYLIaXQ8vgTR4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image-478-6547f91a38a14fd0a11449a22723dbfb.jpg",
+            "prep_time": "25 mins",
+            "total_time": "1 hour 50 mins",
+            "servings": 4,
+            "ingredients": [
+                "1 pound lean ground beef",
+                "1 ½ teaspoons kosher salt",
+                "½ teaspoon freshly ground black pepper",
+                "1 pinch cayenne pepper",
+                "2 tablespoons minced green onions",
+                "1 tablespoon chopped fresh parsley, or to taste",
+                "⅓ cup plain dry bread crumbs",
+                "1 large egg, beaten",
+                "1 teaspoon Worcestershire sauce",
+                "10 slices provolone cheese",
+                "½ cup ketchup",
+                "¼ cup barbeque sauce",
+                "2 tablespoons Sriracha sauce"
+            ],
+            "directions": [
+                "Combine ground beef, salt, pepper, cayenne, green onions, parsley, bread crumbs, egg, and Worcestershire sauce in a large bowl. Mix with a fork until just combined; do not overmix. Wrap and chill in the refrigerator for 1 hour.",
+                "Preheat the oven to 350 degrees F (175 degrees C). Line a sheet pan with a silicone liner (such as Silpat®).",
+                "Remove meat from the refrigerator and divide into 8 equal portions. Dampen your fingers with cold water and roll meat into smooth balls. Form each ball into a ghost (or pear) shape and place on the prepared sheet pan; try to center the heads over the bodies.",
+                "Bake in the center of the preheated oven until cooked through, about 20 minutes. An instant-read thermometer inserted into the center should read at least 150 degrees F (66 degrees C).",
+                "Remove from the oven and immediately place a slice of provolone cheese on the top of each ghost, centering it the best you can. Cut the remaining 2 slices of provolone into quarters and place those over the center to provide more cheese for the head. The residual heat from the meat will start to melt the cheese and it will droop down.",
+                "Return to the oven until the cheese melts, 30 to 60 seconds.",
+                "Remove from the oven and take some of the melted cheese around the bottoms and wrap and drape it back up over the heads. Use the tip of a knife to form eyes and mouths, then neaten up the bottom of the cheese sheets",
+                "Combine ketchup, barbecue sauce, and Sriracha for blood sauce; ladle onto plates and serve meatloaf ghosts on top.",
+                "You don't have to use this meatloaf recipe to make these ghosts--you can use any meatloaf recipe, or meatball recipe, or just use seasoned ground beef.",
+                "Chilling the meat mixture in the fridge is not necessary but it will make the meat easier to work with and it will probably taste better.",
+                "Fine salt can be used in place of kosher salt, and you can use any white melty cheese."
+            ]
         }
-        // {
-        //     "title": "",
-        //     "intro": "",
-        //     "img": "",
-        //     "prep_time": "",
-        //     "total_time": "",
-        //     "servings": "",
-        //     "ingredients": [],
-        //     "directions": []
-        // },
-        // {
-        //     "title": "",
-        //     "intro": "",
-        //     "img": "",
-        //     "prep_time": "",
-        //     "total_time": "",
-        //     "servings": "",
-        //     "ingredients": [],
-        //     "directions": []
-        // },
         // {
         //     "title": "",
         //     "intro": "",
