@@ -175,26 +175,57 @@ export const data = {
                 "Chilling the meat mixture in the fridge is not necessary but it will make the meat easier to work with and it will probably taste better.",
                 "Fine salt can be used in place of kosher salt, and you can use any white melty cheese."
             ]
+        },
+        {
+            "id": "Chocolate-Candy Corn Pretzel Bites-6",
+            "title": "Chocolate-Candy Corn Pretzel Bites",
+            "intro": "This 3-ingredient recipe has been one of my favorite fall treats for years — the hardest past is just unwrapping the hugs! These salty-sweet bites look cute and creative with very little effort, plus the combination of chewy and crunchy textures makes them absolutely irresistible. This is the only way I'll eat candy corn!",
+            "img": "https://www.allrecipes.com/thmb/L65C6gHPBUi2SDYpOP1CSvh3rhY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1664203345DSC09784-2000-25f0de3b5cbd4bb8afb2a44233d1b543.jpg",
+            "prep_time": "10 mins",
+            "total_time": "45 mins",
+            "servings": 10,
+            "ingredients": [
+                "1 (15 ounce) package pretzel snaps (square waffle-shaped pretzels)",
+                "1 (10 ounce) bag chocolate candies (such as Hershey®'s Hugs®)",
+                "1 (14 ounce) package candy corn"
+            ],
+            "directions": [
+                "Preheat the oven to 300 degrees F (150 degrees C). Line a baking sheet with parchment paper.",
+                "Arrange the pretzels in a single layer on the tray. Place a single Hersey's Hug on the center of each pretzel.",
+                "Bake until hugs start to melt slightly, 4 to 5 minutes. You want the chocolate candies to be soft but not entirely melted.",
+                "Remove from the oven and quickly place a candy corn on top of each hug, pressing down to secure in the chocolate. Move to the fridge to cool for about 30 minutes."
+            ]
+        },
+        {
+            "id": "Cranberry Pumpkin Cookies-7",
+            "title": "Cranberry Pumpkin Cookies",
+            "intro": "Soft and cakey pumpkin-cranberry cookies.",
+            "img": "https://www.allrecipes.com/thmb/HgwmjqnbY9M0ee3s8eIWcpdHCKg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5848165-51f4085874754884af73e316d9e22ea7.jpg",
+            "prep_time": "20 mins",
+            "total_time": "35 mins",
+            "servings": 36,
+            "ingredients": [
+                "1 cup white sugar",
+                "½ cup butter, softened",
+                "1 cup solid pack pumpkin puree",
+                "1 large egg",
+                "1 teaspoon vanilla extract",
+                "2 ¼ cups all-purpose flour",
+                "2 teaspoons baking powder",
+                "1 teaspoon baking soda",
+                "1 teaspoon ground cinnamon",
+                "½ teaspoon salt",
+                "1 cup halved fresh cranberries",
+                "½ cup chopped walnuts",
+                "1 tablespoon orange zest"
+            ],
+            "directions": [
+                "Preheat the oven to 375 degrees F (190 degrees C). Grease two cookie sheets.",
+                "Cream sugar and butter in a large bowl with an electric mixer until light and fluffy. Mix in pumpkin purée, egg, and vanilla.",
+                "Sift flour, baking powder, baking soda, cinnamon, and salt together into a medium bowl. Stir flour mixture into pumpkin mixture until well blended. Stir in cranberries, walnuts, and orange zest. Drop teaspoonfuls of dough 2 inches apart onto the prepared baking sheets.",
+                "Bake in the preheated oven until the edges are golden, 10 to 12 minutes.",
+                "Remove from the oven and transfer to wire racks to cool."
+            ]
         }
-        // {
-        //     "title": "",
-        //     "intro": "",
-        //     "img": "",
-        //     "prep_time": "",
-        //     "total_time": "",
-        //     "servings": "",
-        //     "ingredients": [],
-        //     "directions": []
-        // },
-        // {
-        //     "title": "",
-        //     "intro": "",
-        //     "img": "",
-        //     "prep_time": "",
-        //     "total_time": "",
-        //     "servings": "",
-        //     "ingredients": [],
-        //     "directions": []
-        // }
     ]
 }
