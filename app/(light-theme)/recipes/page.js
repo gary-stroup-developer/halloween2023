@@ -5,7 +5,7 @@ import { data } from './recipes'
 const RecipeDashboard = () => {
   const recipes = data.recipes;
   return (
-    <div className={`grid grid-flow-row grid-cols-3 relative top-52 w-full`}>
+    <div className={`grid md:grid-cols-2 lg:grid-cols-3 relative top-52 w-full`}>
     
         {
             recipes.map((recipe,index) => {

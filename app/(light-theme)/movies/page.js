@@ -13,14 +13,14 @@ const MoviesPage = () => {
         {
             movies.map((movie) => {
                 return (
-               <div className = "text-2xl flex flex-col justify-around items-center w-full mt-5" key={movie.key}>
+               <div className = "text-lg md:text-2xl flex flex-col justify-around items-center max-w-5xl mt-5" key={movie.key}>
                     <div className="p-10 text-5xl">
                         <p className="inline-block mr-5">{movie.key}</p>
                         <p className="inline-block">{movie.title}</p> 
                     </div>
-                    <div className="flex justify-between items-center shadow-2xl p-4">
-                        <Image className="rounded-lg self-start" src={movie.img} height={400} width={400} alt={`${movie.title} scene`} />
-                        <p className="w-1/2">{movie.summary}</p> 
+                    <div className="flex flex-col items-center lg:justify-between lg:flex-row shadow-2xl p-4">
+                        <Image className="rounded-lg" src={movie.img} height={400} width={400} alt={`${movie.title} scene`} />
+                        <p className="pl-2 md:w-1/2">{movie.summary}</p> 
                     </div>
                     
                 </div> 
